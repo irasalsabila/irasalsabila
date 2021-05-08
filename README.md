@@ -15,4 +15,5 @@ She/Her
 ### 🌱 I am looking forward to absorb knowledge, gain experience, and collaborate.
 
 ### 📫 How to reach me?
-- [LinkedIn] (https://www.linkedin.com/in/irasalsabila/)
+- Email : irasalsabila@gmail.com
+- Linkedin : [Salsabila Zahirah Pranida](https://www.linkedin.com/in/irasalsabila/)

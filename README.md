@@ -1,9 +1,9 @@
 # 👋 Hi there!
   
   I'm **Salsabila Zahirah Pranida**. Everyone calls me by **Ira**. 
-  - a 3rd-year student at the **Islamic University of Indonesia**. 
-  - also learning Accounting for Program Kampus Merdeka at Soegijapranata Catholic University for a semester.
-  - currently student of Bangkit 2021 in Machine Learning path.
+  - a final-year student at the **Islamic University of Indonesia**, majoring Informatics.
+  - learnt Accounting for Program Kampus Merdeka at Soegijapranata Catholic University for a semester.
+  - Graduated with Distinction student of Bangkit 2021 in Machine Learning path.
 
 ### 😄 Pronouns
 She/Her

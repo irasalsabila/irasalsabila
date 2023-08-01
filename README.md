@@ -1,17 +1,17 @@
 # 👋 Hi there!
   
-  I'm **Salsabila Zahirah Pranida**. Everyone calls me by **Ira**. 
-  - Graduated with Distinction student of Bangkit 2021 in Machine Learning path.
-  - Currently pursuing career in Data Scientist
+  I'm **Ira**.
+  
+  I am highly passionate about NLP, and I have developed a background in machine learning and deep learning. I am a certified Google TensorFlow Developer, showcasing my dedication and attention to detail. My curiosity knows no bounds, especially when exploring new technologies and advancements in Deep Learning, Machine Learning, NLP, or Computational Linguistics. My research interests primarily revolve around NLP and computational linguistics, as I strive to make valuable contributions to this rapidly evolving field. I am enthusiastic about engaging in thought-provoking discussions and collaborating with others to achieve success in both my academic pursuits and professional endeavors.
 
 ## 😄 Pronouns
 She/Her
 
 ## 👀 Current Learning and Interest
-  Relevant Coursework: Data Science, Machine Learning, Deep Learning, NLP.
+  Relevant Coursework: Data Science, Machine Learning, Deep Learning, NLP, and Computational Linguistics.
   
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alrifaah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irasalsabila)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alrifaah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irasalsabila) 
 [![Medium](https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@irasalsabila)
 
 ## 📑 Certification
